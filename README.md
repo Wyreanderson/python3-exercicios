@@ -1,2 +1,6 @@
 # python3-exercicios
-Todos os meus exercícios do curso de Python 3 do Professor Guanabara do Curso em Vídeo.
+Meu repositoria na Linguagem Python com Resolução de Exercícios!
+
+Aprimorei habilidades em Strings, Listas, Dicionários, Variáveis e Loops com este curso abrangente. Aprendi na prática através de soluções detalhadas, explicações claras e exercícios desafiadores. Dominei os conceitos básicos da linguagem com este curso do professor Gustavo Guanabara!
+
+
